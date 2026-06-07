@@ -1,0 +1,25 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+
+# Never commit private learning materials or credentials.
+lectures/
+raw/
+cache/
+tmp/
+*.srt.private
+*.pdf
+*.pptx
+*.docx
+.env
+.env.*
+*secret*
+*token*
+*credential*
+auth_session*
+client_secrets*

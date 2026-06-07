@@ -1,0 +1,16 @@
+# Codex OSS application evidence draft
+
+| Item | Current evidence | Next proof to add |
+|---|---|---|
+| Public OSS package | Local public-candidate scaffold exists | Create public GitHub repo after approval |
+| License | MIT draft included | Confirm final license before publishing |
+| Maintainer role | Solo-maintained extraction from private workflow | Publish under user's GitHub account |
+| Activity | Synthetic fixture, tests, CI config created | First release tag and changelog |
+| Usage/adoption | None yet | 1-3 external testers using synthetic sample |
+| Safety | No private data included by design, `.gitignore`, `SECURITY.md` | Run secret scan before publish |
+| Codex usage plan | PR review, parser tests, docs, issue triage for owned repo only | Add issue templates and roadmap |
+
+## Application framing
+
+Use this as the primary application candidate only after it is public and has a
+passing CI run. Do not claim broad adoption until there is public evidence.

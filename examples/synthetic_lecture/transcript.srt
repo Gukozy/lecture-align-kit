@@ -1,0 +1,19 @@
+1
+00:00:01,000 --> 00:00:03,000
+Welcome. Today we will discuss active recall and spaced repetition.
+
+2
+00:00:04,000 --> 00:00:06,000
+Next slide, active recall means testing yourself before rereading notes.
+
+3
+00:00:07,000 --> 00:00:09,000
+This is useful because retrieval practice strengthens memory.
+
+4
+00:00:10,000 --> 00:00:12,000
+Moving on, spaced repetition schedules review before forgetting is complete.
+
+5
+00:00:13,000 --> 00:00:15,000
+To summarize, combine recall questions with spaced review sessions.
